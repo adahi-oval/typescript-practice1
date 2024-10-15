@@ -1,5 +1,3 @@
-# Práctica 4
-
 ## Ejercicio 1 - Números Racionales
 
 Se define un tipo de datos `Rational`, que consiste en el numerador `num` y el denominador `denom`. Con ello se trabajará en este ejercicio. En primer lugar, se necesitan dos funciones adicionales: `mcd` y `mcm` para calcular el máximo común divisor y el mínimo común múltiplo, respectivamente. La función `mcd` utiliza el algoritmo de Euclides:
